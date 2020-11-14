@@ -148,7 +148,7 @@ copyright = "| copyright &copy; 2020 [Funsie Onesie](/) All Rights Reserved |"
   # Preloader
   [params.preloader]
   enable = true
-  preloader = "https://i.pinimg.com/originals/90/80/60/9080607321ab98fa3e70dd24b2513a20.gif" # use .png , .svg or .gif format
+  preloader = "https://static-steelkiwi-dev.s3.amazonaws.com/media/filer_public/2b/3b/2b3b2d3a-437b-4e0a-99cc-d837b5177baf/7d707b62-bb0c-4828-8376-59c624b2937b.gif" # use .png , .svg or .gif format
 
   # search
   [params.search]

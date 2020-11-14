@@ -147,7 +147,7 @@ copyright = "| copyright &copy; 2020 [Funsie Onesie](/) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   preloader = "" # use .png , .svg or .gif format
 
   # search
